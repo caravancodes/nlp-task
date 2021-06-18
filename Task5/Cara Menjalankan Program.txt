@@ -1,0 +1,3 @@
+Cara Menjalankan Program
+1. Buka Pycharm
+2. Run

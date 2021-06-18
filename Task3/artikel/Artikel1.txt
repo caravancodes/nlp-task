@@ -1,0 +1,146 @@
+PENGERTIAN ANDROID: Sejarah, Kelebihan & Versi Sistem Operasi Android OS
+PutraOktober 23, 20190
+Pengertian Android – Android merupakan salah satu sistem operasi atau operating system berbasis mobile yang sangat banyak di gunakan sekarang ini. Utamanya pada telepon pintar (smartphone) ataupun tablet.
+
+Sejak diperkenalkan pada tahun 2007, Android mempunyai beberapa varian atau versi. yang terbaru adalah versi OS Android 10 yang diperkenalkan pada 3 September 2019 lalu.
+
+Nama versi kali ini berbeda dengan sebelumnya yang biasa mengunakan nama-nama makanan penutup, seperti cupcake, nougat, donut dll. Kedepan SO ini hanya akan mengeluarkan nama versi berdasarkan urutan angka, yakni versi android 10, 11, 12 dan seterusnya.
+
+Daftar Isi Artikel [buka]
+
+Pengertian Android
+pengertian android
+pixabay.com
+Pengertian Android adalah sistem operasi yang dirancang oleh Google dengan basis kernel Linux untuk mendukung kinerja perangkat elektronik layar sentuh, seperti tablet atau smartphone. Jadi, android digunakan dengan sentuhan, gesekan ataupun ketukan pada layar gadget anda.
+
+Android bersifat open source atau bebas digunakan, dimodifikasi, diperbaiki dan didistribusikan oleh para pembuat ataupun pengembang perangkat lunak. Dengan sifat open source perusahaan teknologi bebas menggunakan OS ini diperangkatnya tanpa lisensi alias gratis.
+
+Begitupun dengan para pembuat aplikasi, mereka bebas membuat aplikasi dengan kode-kode sumber yang dikeluarkan google. Dengan seperti itu android memiliki jutaan support aplikasi gratis/berbayar yang dapat diunduh melalui google play.
+
+ 
+
+Kesimpulan
+
+Pengertian Android adalah sistem operasi yang digunakan pada perangkat elektronik berbasis layar sentuh, seperti smartphone ataupun tablet.
+
+Sistem Operasi adalah aplikasi yang mengatur seluruh sumber daya dalam perangkat elektronik, mulai dari manajemen memori, aplikasi, antarmuka tampilan dan sebagainya.
+
+Sejarah Android
+android
+andy rubin via theverge.com
+Di awal pembuatannya, Android ditargetkan bagi penggunaan perangkat kamera digital. Akan tetapi, para pencipta Android, yaitu Andy Rubin, Chris White, dan Nick Sears berpendapat bahwa pasar untuk kamera digital tidak terlalu besar.
+
+Maka dari itu, sistem operasi ini kemudian dialihkan penggunaannya pada ponsel pintar.
+
+Pada tahun 2004, Android mulai dipasarkan dan berhadapan dengan saingan smartphone berbasis sistem operasi Symbian dan Windows Mobile. Di awal pemasarannya ini, Andy Rubin dan partner-nya sulit mendapatkan investor.
+
+Hingga akhirnya, Android berhasil mendapatkan suntikan dana sebesar 10.000 dolar Amerika dari Steve Perlman, seseorang yang kala itu ingin membantu Andy Rubin. Di bulan Juli 2005, Google mengakuisisi Android Inc. dengan uang sebesar 50 juta dolar.
+
+Para pendiri Android kemudian bergabung dengan Google dan memimpin proyek ini. Setelah Google akhirnya berkompetisi juga dalam perangkat ponsel pintar yang dibelinya, yaitu Android, Google akhirnya membuat prototipe.
+
+Prototipe tersebut merupakan smartphone yang memiliki keyboard, seperti mililk  Blackberry. Hingga Desember 2006, berita mengenai prototipe Android ini terus tersiar.
+
+Tanpa disangka-sangka, pada tahun 2007, perusahaan Apple merilis iPhone dengan desain smartphone yang hampir seluruh permukaannya menggunakan layar sentuh.
+
+Mulai dari situ, Google memikirkan bagaimana perkembangan smartphone Android untuk ke depannya, mengingat prototipe awalnya menggunakan keyboard tanpa layar sentuh sama sekali.
+
+Untuk menyaingi iPhone, Nokia dan Balckberry merilis ponsel dengan layar sentuh di tahun 2008. Tak ingin kalah dengan kompetitornya, Google juga merilis ponsel dengan layar sentuh, yaitu HTC Dream atau T-Mobile G1.
+
+Namun, tak hanya layar sentuh saja, smartphone ini juga tidak meninggalkan penggunaan keyboard.
+
+Masa Kejayaan Android
+Menurut data dari Kleiner Perkins, tahun 2010 adalah tahun di mana Android untuk pertama kalinya mengambil alih pangsa pasar yang sebelumnya dikuasai Apple dan iPhone-nya, dan terus berlanjut hingga sekarang.
+
+Alasan iPhone bisa kalah dari Android adalah karena ketersediaan smartphone dan harganya. Ketersediaan smartphone Android bisa memenuhi kebutuhan pasar karena sistem operasi ini merupakan sistem operasi Open Source.
+
+Kelebihan dan Kekurangan Android
+sistem operasi android
+pixabay.com
+Android memiliki kelebihan dan kekurangan tersendiri dibandingkan sistem operasi lainnya, berikut adalah kekurangan dan kelebihan OS android.
+
+Kelebihan Android
+1.   Merupakan Sistem Operasi Open Source
+Siapa saja bisa menggunakannya secara gratis. Para developer atau pengembang dimudahkan untuk mengoptimalkan dan mengembangkan OS ini untuk smartphone yang dibuatnya.
+
+2. Harganya Beragam
+Ada yang terbilang cukup terjangkau, ada pula yang memiliki harga jual tinggi. Sehingga, smartphone Android bisa menjangkau semua kalangan. Namun, semakin tinggi harga, semakin mumpuni pula spesifikasinya.
+
+3. Memiliki Banyak Dukungan Aplikasi
+Hal ini juga tidak lepas dari sifat Android yang merupakan sistem operasi Open Source. Pengembang pun diizinkan untuk mengembangkan aplikasi berbasis source code dari Android.
+
+Oleh karena itu, jika Anda masuk ke Play Store, akan ditemukan banyak sekali ribuan aplikasi yang sesuai dengan kebutuhan pengguna.
+
+4. Mudah dimodifikasi
+Banyak komponen yang bisa Anda atur ulang atau dimodifikasi, mulai dari ROM  hinga custom overclock pada sistem operasi. Hal ini bisa berpengaruh terhadap performa ponsel pintar berbasis Android agar bisa bekerja lebih cepat dan sesuai dengan keinginan.
+
+Kekurangan Android
+1. Kerja sistemnya cukup berat
+Hal ini menyebabkan banyak memori yang dibutuhkan, baik RAM maupun ROM. Bagi smartphone yang memiliki RAM dan ROM berkapasitas kecil, tentu ini akan menghambat performanya.
+
+2. Hasil modifikasi sering menyebabkan sistem bekerja tidak stabil dan kurang optimal
+Adakalanya hasil modifikasi mengakibatkan OS menjadi sedikit lelet dan kurang responsif. Nantinya, bisa berpengaruh pada hardware sehingga menjadi cepat panas dan kapasitas memori lebih mudah bocor.
+
+3. Kurang responsif jika disandingkan dengan spesifikasi hardware yang tidak baik
+Hal ini terjadi ketika kapasitas penyimpanan ram atau kecepatan processor yang digunakan rendah.
+
+Perkembangan Android
+tingkatan android
+techtrickle.com
+Sejak tahun 2009, Android dikembangkan dengan penamaan yang berasal dari makanan pencuci mulut. Setiap perubahan versi juga mengikuti urutan abjad mulai dari A b c d e dan seterusnya.
+
+1. Astro 1.0 (Alpha)
+Versi pertama android dirilis 23 September 2008. awalnya versi ini akan dinamai astro namun karena hak cipta penamaan, pihak android tidak menggunakan nama ini secara komersil. Versi android 1.0 sempat disematkan pada ponsel jenis HTC dream. 
+
+2. Bender 1.1 (Beta)
+Versi Bender 1.1 yang dirilis 9 Februari 2009 memiliki masalah sama seperti versi 1.0, yakni hak penamaan merk. di versi 1 dan 1.1 ini google play store yang sekarang kita kenal masih meluncur dengan nama android market.
+
+3. Cupcake 1.5
+Versi ketiga andoid dirilis 27 April 2009. Di versi ini barulah secara komersil android muncul dengan nama pencuci mulut, Nama cupcake dipilih menjadi nama versi ini. Fitur baru yang muncul di versi ini salah satunya adalah on-screen keyboard.
+
+4. Donut 1.6
+Versi yang dirilis pada 15 September 2009 ini memiliki peningkatan pada fitur pencarian dan UI yang lebih user friendly. Donut 1.6 sudah mendukung teknologi CDMA/EVDO, 802.1 x, VPNs. Pada update-an versi kali ini, android berfokus pada penambahan penggunaan jaringan dan layar.
+
+5. Eclair 2.0 – 2.1
+Eclair 2.0 – 2.1 dirilis pada 26 Okttober 2009. Dari versi inilah sampai sekarang kita mengenal fitur navigasi di Google maps, yang pada akhirnya menggantikan fungsi peta konvensional dan sangat membantu mobilitas masyarakat.
+
+6. Froyo 2.2
+Froyo atau disingkat dari frozen yoghurt merupakan versi Android yang rilis pada 20 Mei 2010. Salah satu fitur yang muncul di versi ini adalah kunci pin pada ponsel dan pemolesan sistem-sistem yang sudah ada sebelumnya.
+
+7. Gingerbread 2.3
+Versi ini dirilis pada 6 Desember 2010. Dalam versi ini pembaharuan lebih banyak dari sisi hiburan, mulai dari dukungan format video. Dan yang paling fenomenal adalah dukungan kamera depan pada ponsel yang membawa trend foto selfie.
+
+8. Honeycomb 3.0/3.1
+Versi honeycomb diluncurkan pada 22 Februari 2011. Versi ini diluncurkan untuk penggunaan OS android pada tablet. Versi ini mendukung multi prosesor dan akselerasi hardware untuk grafis serta virtual buttons.  Merk tablet pertama yang menggunakan ini adalah Motorola Xoom.
+
+9. Ice Cream Sandwich 4.0
+Ice Cream Sandwich 4.0 diluncurkan 19 Oktober 2011. Fitur yang ada di versi tablet dimasukan ke dalam ICS 4.0 ini, termasuk juga dengan penampahan fitur baru seperti face unlock, aplikasi email dan rekap penggunaan data internet.
+
+10. Jelly Bean 4,1/4.2/4.3
+Di tahun 2012, android mengeluarkan versi Jelly Bean. Lewat versi Jelly Bean (4.1) google now mulai diperkenalkan, ia berfungsi untuk voice assistent untuk berbagai keperluan secara cepat.
+
+Pada versi 4.2 terdapat fitur photo sphere untuk panorama, daydream sebagai screensaver, power control, dsb. Sedangkan versi 4.3 adalah pemutakhiran dari versi sebelumnya.
+
+11. KitKat 4.4
+Versi KitKat diluncurkan 31 Oktober 2013. Versi yang sebelumnya bernama Key Lime Pie ini membawa peningkatan signifikan dalam hal user experience.
+
+Versi Kitkat optimal berjalan pada kapasitas penyimpanan yang lebih besar dari versi Android sebelumnya. Disarankan perangkat harus memiliki minimal RAM 512 MB.
+
+12. Lollipop 5.0
+Versi lollipop launching 12 November 2014 dan tersedia resmi melalui over the air (OTA). Perubahan yang paling menonjol dalam versi L ini adalah User Interface yang didesain ulang dan dibangun dengan “material design”.
+
+13. Marshmallow 6.0
+Versi marshmallow muncul di 5 Oktober 2015 dengan memperkenalkan beberapa fitur canggih, diantaranya adalah search bar, perizinan aplikasi dan juga sensor sidik jari.
+
+14. Nougat 7.0
+Versi nougat menampilkan perubahan besar untuk android. fitur-fitur terbaru yang hadir diantaranya adalah multi-window yang memungkinkan pengguna menggunakan 2 aplikasi secara bersamaan, selain itu dalam versi ini dirilis juga 63 emoji baru.
+
+15. Oreo 8.0
+Orea 8.0 dirilis pada 21 Agustus 2017 dengan menambah lebih banyak fitur multi tasking dan perombakan bagian notifikasi. Pengguna bisa mengatur mana saja notifikasi yang ingin ditampilkan.
+
+Tampilan UI-nya juga lebih rapi dan segar, serta difokuskan untuk memudahkan pengguna mengakses aplikasi dan mencari informasi.
+
+16. Pie 9.0
+Android versi 9 yang dinamai Pie diluncurkan pada 6 Agustus 2018. dilansir dari kompas setidaknya ada beberapa fitur yang ditambahkan dari versi sebelumnya diantaranya adalah smart reply dari notifikasi, navigasi berbasis gestur, adaptive battery, digital wellbeing dll.
+
+17. Android 10 
+Versi android terbaru adalah Android 10. Ia tidak lagi menggunakan nama dessert atau makanan penutup seperti versi A-P sebelumnya. Salah satu alasannya adalah karena pihak android tidak menemukan makanan yang berasal dari awalan Q. 

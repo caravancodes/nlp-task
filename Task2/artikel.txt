@@ -1,0 +1,24 @@
+Saatnya beralih ke Flutter?
+Pada suatu hari, ada seorang entrepreneur datang kepadamu. Ia ingin membuat sebuah aplikasi yang dapat membantu pengembangan bisnisnya. Demi menjangkau target pasar seluas mungkin, ia minta dibuatkan aplikasi Android dan iOS. Kamu yang merupakan Android Developer harus mencari 3 orang lainnya, yaitu 1 desainer, 1 iOS Developer, dan 1 orang Backend Developer. Mencari desainer dan backend developer bukanlah hal yang sulit. Mencari iOS Developer menjadi sebuah tantangan bagimu karena orang yang mampu mengembangkan aplikasi iOS jauh lebih sedikit dibandingkan developer Android. 
+
+Setelah pembentukan tim, proyek mulai dikerjakan. Masalah lain pun muncul, desain native Android dan iOS ternyata berbeda mulai dari animasi transisi, bentuk icon, hingga typography. Tidak hanya itu, proyek ini membutuhkan 2 orang yang berbeda untuk mengembangkan sebuah aplikasi dengan 2 bahasa yang berbeda sehingga terdapat proyek aplikasi Android dengan bahasa Java atau Kotlin dan proyek aplikasi iOS dengan bahasa Objective C atau Swift. Melakukan maintenance pada 2 proyek yang berbeda juga menyulitkan, belum lagi apabila muncul sebuah bug yang hanya terjadi di salah satu OS. 
+
+Untuk mencegah terjadinya masalah-masalah seperti yang sudah disebutkan di atas, muncul sebuah pertanyaan, apakah tidak ada sebuah proyek yang mampu menciptakan aplikasi Android dan iOS dengan sebuah bahasa saja? Perkenalkan Flutter, sebuah development kit yang mampu menjadi sebuah solusi bagi seorang mobile developer.
+
+ 
+
+Apa itu Flutter?
+Flutter adalah sebuah software development kit (SDK) buatan Google. SDK ini mampu digunakan untuk pengembangan Android, iOS, Web, Linux, Windows, Mac, dan Google Fuchsia dengan single codebase. Flutter ini bersifat gratis sehingga mampu dikembangkan siapa saja. Flutter menggunakan bahasa Dart dalam pengembangannya. Hal yang menarik dalam flutter ini adalah framework ini tidak membutuhkan sebuah interpreter dan langsung di-compile menggunakan code nativenya sehingga prosesnya menjadi jauh lebih cepat. Pengembangan flutter dapat dilakukan pada program Android Studio yang sudah mendukung sistem ini.
+
+Flutter di IOS dan di Android
+Flutter di IOS dan di Android
+
+Kelebihan Flutter
+Flutter memilliki berbagai kelebihan, antara lain:
+
+Fast Development
+Flutter yang menggunakan sistem single codebase dapat membuat sistem compiling yang jauh lebih cepat sehingga flutter memiliki sebuah fitur unik yaitu Fast Reload. Dengan Fast Reload, developer mampu melakukan eksperimen, membangun UI, dan memperbaiki bug lebih cepat tanpa perlu menunggu proses compile. Hanya dengan menekan tombol save, tampilan pada simulator atau device langsung berubah tanpa menghilangkan state yang sedang dijalankan.Selain itu, flutter dapat dijalankan pada emulator Android dan iOS sekaligus sehingga dapat mempercepat pengembangannya. Hanya saja emulator iOS hanya bisa digunakan pada sistem operasi Mac saja.
+Expressive UI
+Flutter telah dilengkapi oleh desain bawaan, yaitu material design milik Android dan cupertino milik iOS. Selain itu, terdapat juga rich motion API, smooth natural scrolling, dan platform awareness. Flutter akan mengikuti desain sesuai dengan operating systemnya. Aplikasi terlihat seakan-akan dibuat khusus untuk operating system tersebut. Tidak hanya itu, flutter memiliki built-in animation yang memudahkan pengguna untuk menciptakan transisi dan animasi tanpa menggunakan third party library. Penggunaannya cukup mudah dikarenakan sudah ada tutorial penggunaannya pada website resmi flutter
+Save Time and Cost
+Dalam sisi development, pengerjaan proyek menggunakan flutter lebih hemat waktu dan biaya. Tidak perlu lagi tim pengembangan dan pengujian terpisah untuk platform Android dan iOS. Apabila tim ingin melakukan perubahan atau penyesuaian berdasarkan pasar, maka waktu untuk mengembangkan dan mengelola aplikasi cenderung lebih cepat.

@@ -1,0 +1,86 @@
+Menteri	NNP
+pertahanan	NNP
+AS	NNP
+dijadwalkan	VB
+mengunjungi	VB
+India	NNP
+.	Z
+
+Tata	NNP
+Power	NNP
+menyuplai	VB
+batu bara	NN
+pada	IN
+tahun	NN
+2000	CD
+.	Z
+
+Pemerintah	NN
+hati-hati	JJ
+dalam	IN
+mengelola	VB
+BUMN	NN
+.	Z
+
+Perusahaan	NN
+baru	JJ
+tersebut	PR
+mencanangkan	VB
+target	NN
+perolehan	NN
+laba bersih	NN
+.	Z
+
+Menteri	NNP
+pertahanan	NNP
+mengunjungi	VB
+pangkalan	NN
+udara	NN
+.	Z
+
+Menurut	IN
+laporan	NN
+sekretaris	NN
+perusahaan	NN
+,	Z
+laba bersih	NN
+meningkat	VB
+.	Z
+
+Transaksi	NN
+penjualan	NN
+barang mewah	NN
+tahun	NN
+2007	CD
+turun	VB
+.	Z
+
+Menkeu	NN
+memperkirakan	VB
+inflasi	NN
+akan	MD
+meningkat	VB
+dibanding	VB
+tahun	NN
+lalu	CC
+.	Z
+
+Kenaikan	NN
+tarif	NN
+didorong	VB
+oleh	IN
+target	NN
+laba bersih	NN
+yang	SC
+meningkat	VB
+.	Z
+
+Makanan	NN
+dari	IN
+luar negeri	NN
+tidak	NEG
+bisa	MD
+masuk	VB
+pasar	NN
+lokal	JJ
+.	Z
